@@ -1,7 +1,9 @@
-首先，什是token？先解释一下
-You can think of tokens as pieces of words, where 1,000 tokens is about 750 words
+小科普：首先，什是token？先解释一下
+“You can think of tokens as pieces of words, where 1,000 tokens is about 750 words”
 
-# GPT-3.5 Turbo 的微调现已推出，GPT-4 的微调将于今年秋天推出。此更新使开发人员能够自定义更适合其用例的模型，并大规模运行这些自定义模型。早期测试表明，GPT-3.5 Turbo 的微调版本在某些狭窄任务上可以匹配甚至超越基本 GPT-4 级别的功能。与我们所有的 API 一样，传入和传出微调 API 的数据归客户所有， OpenAI或任何其他组织不会使用该数据来训练其他模型。
+Facebook把llama2开放开源，对微软openai造成了很大的威胁，为了应对此威胁：
+# GPT-3.5 Turbo 的微调现已推出，GPT-4 的微调将于今年秋天推出。
+此更新使开发人员能够自定义更适合其用例的模型，并大规模运行这些自定义模型。早期测试表明，GPT-3.5 Turbo 的微调版本在某些狭窄任务上可以匹配甚至超越基本 GPT-4 级别的功能。与我们所有的 API 一样，传入和传出微调 API 的数据归客户所有， OpenAI或任何其他组织不会使用该数据来训练其他模型。
 
 ## 微调用例的意义
 ### 改进的可操纵性
